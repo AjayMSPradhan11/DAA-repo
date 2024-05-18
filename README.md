@@ -1,1 +1,1 @@
-Assignment for 5th sem design and analysis of algorithm.
+Assignment for 5th sem Design and Analysis of Algorithm.
